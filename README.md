@@ -15,9 +15,3 @@ A modern static portfolio starter for an IT profile.
 2. Replace all placeholder text with your own profile details.
 3. Update the project cards, certifications, and contact information.
 
-## Suggested next edits
-
-- Add your real name, title, and location
-- Replace placeholder projects with actual work
-- Add live links to GitHub, LinkedIn, or a resume
-- Adjust colors and sections to match your personal brand
